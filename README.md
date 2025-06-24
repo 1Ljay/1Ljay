@@ -18,7 +18,7 @@
 <br>
       
 <div align="center">
-  <img src="https://i.imgur.com/11geY0U.png" width="300">
+  <img src="https://i.imgur.com/11geY0U.png" width="200">
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Ljay-★-black" />
